@@ -13,4 +13,3 @@ public abstract class QuantumComputer extends ComputerDevice {
     System.out.println("Carregando o computador quantico...");
   }
 }
-gi
